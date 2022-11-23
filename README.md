@@ -4,7 +4,8 @@ Hi 👋 My name is Amirali Beigi
 Front-end and Mobile Developer
 ------------------------------
 
-I've been Coding professionally for 4 years. I Started with Mobile Application Development and soon I decided to expand and learn web development and I Love it. and I'm always curious to learn more new and exciting stuff.
+I've been Coding professionally for 5 years. I Started with Mobile Application Development and soon I decided to expand my abilities and learn web development and I Loved it.
+I'm always curious to learn new and interesting things to level up myself as a person and developer.
 
 *   🌍  I'm based in Iran, Guilan ,Rasht
 *   ✉️  You can contact me at [amiralibgi.dev@gmail.com](mailto:amiralibgi.dev@gmail.com)
