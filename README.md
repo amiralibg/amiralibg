@@ -4,8 +4,12 @@ Hi 👋 My name is Amirali Beigi
 Front-end and Mobile Developer
 ------------------------------
 
-I've been Coding professionally for 5 years. I Started with Mobile Application Development and soon I decided to expand my abilities and learn web development and I Loved it.
-I'm always curious to learn new and interesting things to level up myself as a person and developer.
+Front-End Developer with 5+ years of experience specializing in React.js, Next.js,
+and modern JavaScript frameworks. Proficient in turning complex designs into
+responsive, user-friendly web and mobile applications. Skilled in leading
+development teams and collaborating cross-functionally to deliver scalable, high-
+performance products. Continuously learning new technologies to enhance and
+optimize development processes.
 
 *   ✉️  You can contact me at [amiralibgi.dev@gmail.com](mailto:amiralibgi.dev@gmail.com)
 *   🤝  I'm open to collaborating on Interesting projects### Skills<p align="left">
