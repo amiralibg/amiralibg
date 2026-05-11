@@ -56,6 +56,6 @@ I specialize in **React.js**, **Next.js**, and modern JavaScript ecosystems, wit
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.github.com/amiralibgi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.github.com/amiralibg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/amiralibeigi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;
 </p>
