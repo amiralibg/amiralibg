@@ -4,7 +4,7 @@
 
 ### Front-End & Mobile Developer
 
-Front-End Developer with **5+ years of experience** building responsive, scalable, and high-performance web and mobile applications.
+Front-End Developer with **6+ years of experience** building responsive, scalable, and high-performance web and mobile applications.
 
 I specialize in **React.js**, **Next.js**, and modern JavaScript ecosystems, with experience turning complex UI/UX designs into clean, maintainable, and user-friendly products.
 
