@@ -4,9 +4,10 @@
 
 ### Full-Stack Developer
 
-Full-Stack Developer with **6+ years of experience** building responsive, scalable, and high-performance web and mobile applications.
+Full-Stack Developer with **6+ years of experience** delivering end-to-end web and mobile solutions.
 
-I specialize in **React.js**, **Next.js**, and modern JavaScript ecosystems, with experience turning complex UI/UX designs into clean, maintainable, and user-friendly products.
+With a strong foundation in **frontend engineering** and growing expertise in **backend development**, I build scalable applications using **React.js**, **Next.js**, **TypeScript**, **Node.js**, and modern development practices. I value **clean architecture**, **maintainable code**, and delivering products that balance **performance** with an exceptional **user experience**.
+
 
 </div>
 
