@@ -44,12 +44,11 @@ I specialize in **React.js**, **Next.js**, and modern JavaScript ecosystems, wit
 
 | Category | Technologies |
 | --- | --- |
-| Languages | JavaScript, TypeScript, Dart |
+| Languages | JavaScript, TypeScript, Dart, Swift, Go |
 | Frontend | React.js, Next.js, Vue.js, Nuxt.js |
-| Mobile | Flutter |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Design | Figma, Adobe XD |
+| Mobile | Flutter, ReactNative, Native |
+| Backend | Node.js, Express.js, Fastify, Hono.js |
+| Database | MongoDB, PostgresDB |
 
 ---
 
