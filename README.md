@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Amirali Beigi
 
-### FullStack Developer
+### Full-Stack Developer
 
-FullStack Developer with **6+ years of experience** building responsive, scalable, and high-performance web and mobile applications.
+Full-Stack Developer with **6+ years of experience** building responsive, scalable, and high-performance web and mobile applications.
 
 I specialize in **React.js**, **Next.js**, and modern JavaScript ecosystems, with experience turning complex UI/UX designs into clean, maintainable, and user-friendly products.
 
@@ -14,8 +14,8 @@ I specialize in **React.js**, **Next.js**, and modern JavaScript ecosystems, wit
 
 ## About Me
 
-- 💻 FullStack Developer
-- 🚀 Focused on Building and Creating intersting products
+- 💻 Full-Stack Developer
+- 🚀 Focused on Building and Creating interesting products
 - 🤝 Open to collaborating on interesting projects
 - 🌱 Always learning and improving development workflows
 - ✉️ Reach me at [amiralibgi.dev@gmail.com](mailto:amiralibgi.dev@gmail.com)
