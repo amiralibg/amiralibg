@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Amirali Beigi
 
-### Full-Stack Developer
+### Full-Stack Engineer
 
-Full-Stack Developer with **6+ years of experience** delivering end-to-end web and mobile solutions.
+Full-Stack Engineer with **6+ years of experience** delivering end-to-end web and mobile solutions.
 
 With a strong foundation in **frontend engineering** and growing expertise in **backend development**, I build scalable applications using **React.js**, **Next.js**, **TypeScript**, **Node.js**, and modern development practices. I value **clean architecture**, **maintainable code**, and delivering products that balance **performance** with an exceptional **user experience**.
 
@@ -15,7 +15,7 @@ With a strong foundation in **frontend engineering** and growing expertise in **
 
 ## About Me
 
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Engineer
 - 🚀 Focused on Building and Creating interesting products
 - 🤝 Open to collaborating on interesting projects
 - 🌱 Always learning and improving development workflows
